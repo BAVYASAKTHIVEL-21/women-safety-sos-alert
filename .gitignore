@@ -1,0 +1,19 @@
+# Secrets / environment
+.env
+.env.*
+*.secret
+
+# Rote / local runtime artifacts
+.rote/
+rote/
+.cache/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
